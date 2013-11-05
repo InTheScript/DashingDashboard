@@ -1,0 +1,4 @@
+
+
+	
+curl -D- -u mulenga.agley:Starship01 -X PUT --data @C:/TestThis.txt -H "Content-Type: application/json" http://draftfcb-thehub.atlassian.net/rest/api/2/issue/WRKFLO-25

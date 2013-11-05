@@ -1,0 +1,19 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Web 2.0","value":3},{"label":"Exit strategy","value":13},{"label":"Leverage","value":23},{"label":"Turn-key","value":11},{"label":"Streamlininess","value":23},{"label":"Enterprise","value":12},{"label":"Pivoting","value":25},{"label":"Synergy","value":24},{"label":"Paradigm shift","value":12}],"id":"buzzwords","updatedAt":1383648471}
+
+convergence: |+
+  data: {"points":[{"x":417,"y":37},{"x":418,"y":2},{"x":419,"y":34},{"x":420,"y":24},{"x":421,"y":17},{"x":422,"y":22},{"x":423,"y":48},{"x":424,"y":31},{"x":425,"y":10},{"x":426,"y":32}],"id":"convergence","updatedAt":1383648471}
+
+valuation: |+
+  data: {"current":23,"last":17,"id":"valuation","updatedAt":1383648471}
+
+karma: |+
+  data: {"current":194986,"last":71632,"id":"karma","updatedAt":1383648471}
+
+synergy: |+
+  data: {"value":60,"id":"synergy","updatedAt":1383648471}
+
+welcome: |+
+  data: {"text":"Hello Chibeza Kunda!","id":"welcome","updatedAt":1378045014}
+

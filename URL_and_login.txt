@@ -1,0 +1,4 @@
+URL: http://localhost:3030/sampleTV
+Login:
+u - admin	
+p - admin
